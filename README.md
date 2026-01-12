@@ -1,0 +1,1 @@
+# to-check-whether-the-given-integer-is-prime-number-or-not
